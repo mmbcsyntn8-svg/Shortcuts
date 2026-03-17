@@ -1,6 +1,9 @@
 {
+  "version": 1.1,
+  "update_url": "https://www.icloud.com/shortcuts/你的最新分享链接",
   "low": 18,
   "high": 30,
   "rain": 0.5,
-  "sign": "—— 来自 [萧原] 的原创作品"
+  "sign": "—— 来自瓦瓦原创作品",
+  "notice": "新版本增加了远程更新功能！"
 }
